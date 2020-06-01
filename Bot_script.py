@@ -55,4 +55,4 @@ async def ran_response(ctx, *, question):
     await ctx.send(f'Q: {question}\nAns: {random.choice(responses)} ' )
 
 
-client.run('NzE2OTkyNjk5OTA2OTE2Mzc0.XtUZYA.gotnz-ITBr0EyDQAzwJ7lBWSa3A')
+client.run('')
